@@ -29,6 +29,8 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/StarTV.svg" group-title="Turkey",STAR
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-name="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Turkey",atv
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/TLC-Logo_2016.svg" group-title="Turkey",TLC
@@ -58,4 +60,4 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Turkey",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TGRT Belgesel" tvg-logo="https://www.tgrtbelgesel.com/images/logo.png" group-title="Turkey",TGRT Belgesel
-https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8 
+https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
