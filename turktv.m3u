@@ -25,17 +25,17 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/FOX_wordmark-red_2.svg" group-title="Turkey",FOX TV
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/800px-FOX_wordmark-red.svg.png" group-title="Turkey",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/StarTV.svg" group-title="Turkey",STAR
+#EXTINF:-1 tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 tvg-name="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Turkey",atv
+#EXTINF:-1 tvg-name="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="Turkey",atv
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/TLC-Logo_2016.svg" group-title="Turkey",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="Turkey",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/DMAX_BLACK.svg" group-title="Turkey",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/1024px-DMAX_BLACK.svg.png" group-title="Turkey",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/512px-NTV_%28Turkey%29_logo.svg.png" group-title="Turkey",NTV
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
@@ -43,17 +43,17 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="teve2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Teve2_logo.png" group-title="Turkey",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-name="Kanal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Kanal_7_2002-%3F_logosu.webp" group-title="Turkey",Kanal 7
+#EXTINF:-1 tvg-name="Kanal 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="Turkey",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="Turkey",Beyaz TV
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://www.logotypes101.com/logos/83/30CA9DE926A9D087DC232790595E6869/BeyazTVLogo.png" group-title="Turkey",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-name="TV100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="Turkey",TV100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png" group-title="Turkey",TV8.5
 https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
-#EXTINF:-1 tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/CNN_T%C3%BCrk_logo.svg" group-title="Turkey",CNN Türk
+#EXTINF:-1 tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Turkey",CNN Türk
 https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8
-#EXTINF:-1 tvg-name="HaberTürk" tvg-logo="https://im.haberturk.com/assets/images/v3/logo/haberturk-white.svg" group-title="Turkey",HaberTürk
+#EXTINF:-1 tvg-name="HaberTürk" tvg-logo="https://seeklogo.com/images/H/haberturk-tv-ve-gazete-logo-E6E5B3CEE6-seeklogo.com.png" group-title="Turkey",HaberTürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" group-title="Turkey",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
