@@ -43,7 +43,7 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="teve2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Teve2_logo.png" group-title="Turkey",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-name="Kanal 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="Turkey",Kanal 7
+#EXTINF:-1 tvg-name="Kanal 7" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9W3ON0NxODUgwxDG4Ikbf3RKWh1DPmUD634wEwUQ=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://www.logotypes101.com/logos/83/30CA9DE926A9D087DC232790595E6869/BeyazTVLogo.png" group-title="Turkey",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
