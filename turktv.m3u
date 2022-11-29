@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 1 (Yedek1)" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1 Yedek1
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 1 (Yedek2)" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1 Yedek2
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="Turkey",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://i.imgur.com/OVfo8Ab.png" group-title="Turkey",TRT Haber
@@ -9,7 +13,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="Turkey",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Spor 2" tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="Turkey",TRT Spor 2
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="Turkey",TRT Spor Yıldız
 http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/fIVFCEd.png" group-title="Turkey",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -29,8 +33,6 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 tvg-name="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="Turkey",atv
-https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="atv SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="Turkey",atv SD
 https://ecanlitv3.etvserver.com/live_sd/atv/playlist.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",Show TV
